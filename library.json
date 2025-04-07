@@ -1,0 +1,39 @@
+[
+  {
+    "title" : "Artificial Intelligence: A Modern Approach",
+    "author" : "Stuart Russell, Peter Norvig"
+    "publication_year": "1995",
+    "genre" : "Artificial Intelligence",
+    "read_status" : "false",
+    "added_data" : "2025-4-7 11:45:01
+  },
+]
+[
+  {
+    "title" : "How Learning Works",
+    "author" : "Susan A. Ambrose",
+    "publication_year": "2010",
+    "genre" : "Education Research",
+    "read_status" : "false",
+    "added_data" : "2025-4-7 12:15:00
+  },
+]
+[
+  {
+    "title" : "The Power of Habit",
+    "author" : "Charles Duhigg",
+    "publication_year": "2012",
+    "genre" : "Behavioral Science",
+    "read_status" : "true",
+    "added_data" : "2025-4-7 12:30:40
+  },
+]
+ {
+    "title" : "Eloquent JavaScript",
+    "author" : "Marijn Haverbeke",
+    "publication_year": "2011",
+    "genre" : "Web Development",
+    "read_status" : "false",
+    "added_data" : "2025-4-7 01:00:00
+  },
+]
